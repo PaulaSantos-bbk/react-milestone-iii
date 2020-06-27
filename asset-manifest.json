@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-milestone-iii/static/css/main.9b59f428.chunk.css",
+    "main.js": "/react-milestone-iii/static/js/main.a0885e82.chunk.js",
+    "main.js.map": "/react-milestone-iii/static/js/main.a0885e82.chunk.js.map",
+    "runtime-main.js": "/react-milestone-iii/static/js/runtime-main.2e9de6c0.js",
+    "runtime-main.js.map": "/react-milestone-iii/static/js/runtime-main.2e9de6c0.js.map",
+    "static/js/2.19914624.chunk.js": "/react-milestone-iii/static/js/2.19914624.chunk.js",
+    "static/js/2.19914624.chunk.js.map": "/react-milestone-iii/static/js/2.19914624.chunk.js.map",
+    "index.html": "/react-milestone-iii/index.html",
+    "precache-manifest.8e9429afb02b280bb0830cdf7e9fa6ca.js": "/react-milestone-iii/precache-manifest.8e9429afb02b280bb0830cdf7e9fa6ca.js",
+    "service-worker.js": "/react-milestone-iii/service-worker.js",
+    "static/css/main.9b59f428.chunk.css.map": "/react-milestone-iii/static/css/main.9b59f428.chunk.css.map",
+    "static/js/2.19914624.chunk.js.LICENSE.txt": "/react-milestone-iii/static/js/2.19914624.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e9de6c0.js",
+    "static/js/2.19914624.chunk.js",
+    "static/css/main.9b59f428.chunk.css",
+    "static/js/main.a0885e82.chunk.js"
+  ]
+}
